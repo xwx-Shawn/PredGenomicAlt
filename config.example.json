@@ -1,0 +1,46 @@
+{
+  "global_split_file": "./data/global_split.csv",
+  "feature_dir": "./features",
+  "cohort_files": {
+    "AKT1": {
+      "cohort_1": "./data/cohort_1_AKT1.xlsx",
+      "cohort_2": "./data/cohort_2_AKT1.xlsx",
+      "cohort_3": "./data/cohort_3_AKT1.xlsx",
+      "cohort_4": "./data/cohort_4_AKT1.xlsx",
+      "cohort_5": "./data/cohort_5_AKT1.xlsx"
+    },
+    "ERBB2_amp": {
+      "cohort_1": "./data/cohort_1_ERBB2_amp.xlsx",
+      "cohort_2": "./data/cohort_2_ERBB2_amp.xlsx",
+      "cohort_3": "./data/cohort_3_ERBB2_amp.xlsx",
+      "cohort_4": "./data/cohort_4_ERBB2_amp.xlsx",
+      "cohort_5": "./data/cohort_5_ERBB2_amp.xlsx"
+    },
+    "ESR1": {
+      "cohort_1": "./data/cohort_1_ESR1.xlsx",
+      "cohort_2": "./data/cohort_2_ESR1.xlsx",
+      "cohort_3": "./data/cohort_3_ESR1.xlsx",
+      "cohort_4": "./data/cohort_4_ESR1.xlsx",
+      "cohort_5": "./data/cohort_5_ESR1.xlsx"
+    },
+    "BRCA": {
+      "cohort_1": "./data/cohort_1_BRCA.xlsx",
+      "cohort_2": "./data/cohort_2_BRCA.xlsx",
+      "cohort_3": "./data/cohort_3_BRCA.xlsx"
+    },
+    "PIK3CA": {
+      "cohort_1": "./data/cohort_1_PIK3CA.xlsx",
+      "cohort_2": "./data/cohort_2_PIK3CA.xlsx",
+      "cohort_3": "./data/cohort_3_PIK3CA.xlsx",
+      "cohort_4": "./data/cohort_4_PIK3CA.xlsx",
+      "cohort_5": "./data/cohort_5_PIK3CA.xlsx"
+    },
+    "PTEN_mutdel": {
+      "cohort_1": "./data/cohort_1_PTEN_mutdel.xlsx",
+      "cohort_2": "./data/cohort_2_PTEN_mutdel.xlsx",
+      "cohort_3": "./data/cohort_3_PTEN_mutdel.xlsx",
+      "cohort_4": "./data/cohort_4_PTEN_mutdel.xlsx",
+      "cohort_5": "./data/cohort_5_PTEN_mutdel.xlsx"
+    }
+  }
+}
